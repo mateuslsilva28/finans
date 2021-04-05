@@ -1,0 +1,10 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+.container-fluid{padding-left: 4rem;padding-right: 4rem;}
+nav ul{margin-right: 2rem;}
+
+footer p a{
+	margin: 0.2rem 0.9rem;
+}
